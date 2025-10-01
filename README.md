@@ -824,7 +824,6 @@ docker stop <container-name>
      - A `README.md` file with:  
        - The YouTube demo video link.  
        - Your written answers to the Reflection Questions.  
-       - Links to the three service repositories you created in lab 2:   
      - (Optional) Notes about setup challenges or lessons learned.  
 
 ### How to Submit
